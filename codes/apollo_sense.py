@@ -41,10 +41,10 @@ import utils.hermes
 #from slack import WebClient 
 
 # Main
-webhook_url = 'https://hooks.slack.com/services/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' #apollo @ IntegrationHq2
+webhook_url = 'https://hooks.slack.com/services/xxx/xxx/xxx' #apollo @ IntegrationHq2
 
 # Demo for public
-webhook_url_supercharged_hagrid = 'https://hooks.slack.com/services/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'
+webhook_url_supercharged_hagrid = 'https://hooks.slack.com/services/xxx/xxx/xxx'
 
 # Location
 IOT_LOC = '30.112014921764576, -95.54612274151808'
