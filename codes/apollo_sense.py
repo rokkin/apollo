@@ -138,7 +138,7 @@ def get_sensor_readings():
     blnExecute = True
     while blnExecute == True:
 
-        #debug only client = slack.WebClient('xoxb-65858531189-1145206050005-82YUTATzuuUQYSQQDG9n7LVu')
+        #debug only client = slack.WebClient('xoxb-xxx-xxx-xxx')
         if humidity is not None and temperature is not None:
             #20190727 @bencarpena : Added feature to turn on/off LED            
             #20230112 : print('Temp={0:0.1f}*  Humidity={1:0.1f}%'.format(temperature, humidity))
