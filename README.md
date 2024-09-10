@@ -12,6 +12,12 @@ A Raspberry Pi 4 integrated with AM2302 Digital Temperature and Humidity sensor 
 Light Emitting Diode [LED](https://www.amazon.com/dp/B0B5VG7QNY/ref=sspa_dk_detail_0?pd_rd_i=B0B5VG7QNY&pd_rd_w=Ka3jg&content-id=amzn1.sym.3309c9d3-bf37-499a-888c-9ce693c3483f&pf_rd_p=3309c9d3-bf37-499a-888c-9ce693c3483f&pf_rd_r=EMA83164Y6J3544V14RF&pd_rd_wg=L5QTq&pd_rd_r=a5b66152-424e-476a-97ee-eaf81b1928f3&s=hi&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTTNDVjdCUE1aUjNUJmVuY3J5cHRlZElkPUEwNjM2NzMxM0dTMzZISk1CQjdWTiZlbmNyeXB0ZWRBZElkPUEwNDM0MjAwMkxGVDgxT1MxTEgyJndpZGdldE5hbWU9c3BfZGV0YWlsX3RoZW1hdGljJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1)
 - Raspi jumper [wires](https://www.amazon.com/raspberry-pi-jumper-wires/s?k=raspberry+pi+jumper+wires)
 
+## Software
+- Operating system: Raspian GNU/Linux
+- Python3
+- Slack API 
+    - Documentations [here](https://api.slack.com/)
+    - Webhooks are event-driven APIs. Documentations [here](https://api.slack.com/messaging/webhooks)
 
 # Info and Solution Architecture
 
